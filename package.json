@@ -1,0 +1,14 @@
+{
+  "name": "webcanhan",
+  "version": "0.0.0",
+  "description": "gioi thieu",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "pug": "^2.0.0-beta"
+  },
+  "author": "Cuong",
+  "license": "ISC"
+}
